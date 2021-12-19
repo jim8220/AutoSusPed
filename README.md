@@ -3,24 +3,24 @@
 
 # Directory
 
-First download Maestro V3.0.0. (except .wav files)\n
-Then rebatch files as below.\n
-
-composer2composer.py
-constants.py
-dataset.py
-evaluate.py
-model.py
-train.py
-data_analysis
-ㄴdata_analysis.py
-ㄴmaestro-v.3.0.0-midi
-  ㄴmaestro-v.3.0.0
-    ㄴ2004
-    ...
-    ㄴ2018
-    ㄴcomposers_by_era.xlsx
-    ㄴmaestro-v.3.0.0.csv
-    ㄴmaestro-v.3.0.0.json
-    
+First download Maestro V3.0.0. (except .wav files)<br />
+Then rebatch files as below.<br />
+<br />
+composer2composer.py<br />
+constants.py<br />
+dataset.py<br />
+evaluate.py<br />
+model.py<br />
+train.py<br />
+data_analysis<br />
+ㄴdata_analysis.py<br />
+ㄴmaestro-v.3.0.0-midi<br />
+  ㄴmaestro-v.3.0.0<br />
+    ㄴ2004<br />
+    ...<br />
+    ㄴ2018<br />
+    ㄴcomposers_by_era.xlsx<br />
+    ㄴmaestro-v.3.0.0.csv<br />
+    ㄴmaestro-v.3.0.0.json<br />
+    <br />
 Sorry for inconvinience! After I get used to Github, I will make directory more user-friendly!
