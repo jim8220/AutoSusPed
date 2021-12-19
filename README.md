@@ -3,8 +3,8 @@
 
 # Directory
 
-First download Maestro V3.0.0. (except .wav files)
-Then rebatch files as below.
+First download Maestro V3.0.0. (except .wav files)\n
+Then rebatch files as below.\n
 
 composer2composer.py
 constants.py
