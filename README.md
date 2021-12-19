@@ -16,11 +16,11 @@ data_analysis<br />
 &emsp;ㄴdata_analysis.py<br />
 &emsp;ㄴmaestro-v.3.0.0-midi<br />
   &emsp;&emsp;ㄴmaestro-v.3.0.0<br />
-    &emsp;&emsp;ㄴ2004<br />
-    &emsp;&emsp;...<br />
-    &emsp;&emsp;ㄴ2018<br />
-    &emsp;&emsp;ㄴcomposers_by_era.xlsx<br />
-    &emsp;&emsp;ㄴmaestro-v.3.0.0.csv<br />
-    &emsp;&emsp;ㄴmaestro-v.3.0.0.json<br />
+    &emsp;&emsp;&emsp;ㄴ2004<br />
+    &emsp;&emsp;&emsp;...<br />
+    &emsp;&emsp;&emsp;ㄴ2018<br />
+    &emsp;&emsp;&emsp;ㄴcomposers_by_era.xlsx<br />
+    &emsp;&emsp;&emsp;ㄴmaestro-v.3.0.0.csv<br />
+    &emsp;&emsp;&emsp;ㄴmaestro-v.3.0.0.json<br />
     <br />
 Sorry for inconvinience! After I get used to Github, I will make directory more user-friendly!
