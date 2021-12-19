@@ -13,14 +13,14 @@ evaluate.py<br />
 model.py<br />
 train.py<br />
 data_analysis<br />
-ㄴdata_analysis.py<br />
-ㄴmaestro-v.3.0.0-midi<br />
-  ㄴmaestro-v.3.0.0<br />
-    ㄴ2004<br />
-    ...<br />
-    ㄴ2018<br />
-    ㄴcomposers_by_era.xlsx<br />
-    ㄴmaestro-v.3.0.0.csv<br />
-    ㄴmaestro-v.3.0.0.json<br />
+&emspㄴdata_analysis.py<br />
+&emspㄴmaestro-v.3.0.0-midi<br />
+  &emsp&emspㄴmaestro-v.3.0.0<br />
+    &emsp&emspㄴ2004<br />
+    &emsp&emsp...<br />
+    &emsp&emspㄴ2018<br />
+    &emsp&emspㄴcomposers_by_era.xlsx<br />
+    &emsp&emspㄴmaestro-v.3.0.0.csv<br />
+    &emsp&emspㄴmaestro-v.3.0.0.json<br />
     <br />
 Sorry for inconvinience! After I get used to Github, I will make directory more user-friendly!
