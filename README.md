@@ -13,7 +13,7 @@ evaluate.py<br />
 model.py<br />
 train.py<br />
 data_analysis<br />
-&emspㄴdata_analysis.py<br />
+<&emsp>ㄴdata_analysis.py<br />
 &emspㄴmaestro-v.3.0.0-midi<br />
   &emsp&emspㄴmaestro-v.3.0.0<br />
     &emsp&emspㄴ2004<br />
